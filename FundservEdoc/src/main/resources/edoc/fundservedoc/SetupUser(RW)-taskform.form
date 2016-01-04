@@ -1,0 +1,46 @@
+
+<form id="1145586013">
+<property name="name" value="SetupUser(RW)-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="2" name="Bank" type="InputText" id="904209387">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;enquot;,quot;Bank (Bank)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="Bank"/>
+<property name="outputBinding" value="Bank"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="0" name="FirstName" type="InputText" id="1628642454">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;enquot;,quot;firstName (FirstName)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="firstName"/>
+<property name="outputBinding" value="firstName"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="3" name="Fund" type="InputText" id="1679742246">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;enquot;,quot;Fund (Fund)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="Fund"/>
+<property name="outputBinding" value="Fund"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="LastName" type="InputText" id="1528236334">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;enquot;,quot;lastName (LastName)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="lastName"/>
+<property name="outputBinding" value="lastname"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="Bank" name="#000000" type="basicType" outId="Bank" value="java.lang.String" id="Bank"/>
+<dataHolder inputId="firstName" name="#B29FE4" type="basicType" outId="firstName" value="java.lang.String" id="FirstName"/>
+<dataHolder inputId="Fund" name="#E9E371" type="basicType" outId="Fund" value="java.lang.String" id="Fund"/>
+<dataHolder inputId="lastName" name="#9BCAFA" type="basicType" outId="lastname" value="java.lang.String" id="LastName"/>
+</form>

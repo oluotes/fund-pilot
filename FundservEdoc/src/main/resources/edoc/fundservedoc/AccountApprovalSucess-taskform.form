@@ -1,0 +1,22 @@
+
+<form id="1912042586">
+<property name="name" value="AccountApprovalSucess-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="approve" type="InputTextInteger" id="1885044078">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;Approved (approve)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="Approved"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="1" name="disapprove" type="InputTextInteger" id="1936782575">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;Disapproved (disapprove)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="Disapproved"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="Approved" value="java.lang.Integer" id="approve"/>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="Disapproved" value="java.lang.Integer" id="disapprove"/>
+</form>
